@@ -5,7 +5,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <h1><em>Linguagens com as quais tenho experiência:<em></h1>
+  <h1><em>Linguagens com as quais tenho experiência de estudo:<em></h1>
   <img alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
